@@ -1,0 +1,573 @@
+
+========== NUEVO PEDIDO ==========
+Pedido: #37
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+
+Tiempo: 33.03 segundos
+
+  pivot t= 16.9s | heading=-199.22deg | target= 155.25deg | error=  -5.53deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 31.8  nose=(-0.190,0.042) o5=(-0.044,0.020) theta=-205.6deg o5_err=0.1cm
+
+  pivot t= 14.8s | heading=-353.56deg | target=   0.00deg | error=  -6.44deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+========== NUEVO PEDIDO ==========
+Pedido: #38
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.03 segundos
+
+  pivot t= 17.3s | heading=-201.54deg | target= 155.26deg | error=  -3.20deg
+
+t= 31.7  nose=(-0.190,0.042) o5=(-0.045,0.020) theta=-205.3deg o5_err=0.1cm
+
+  pivot t= 15.9s | heading=-353.17deg | target=   0.00deg | error=  -6.83deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+========== NUEVO PEDIDO ==========
+Pedido: #40
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.03 segundos
+
+  pivot t= 18.5s | heading= 149.39deg | target= 155.34deg | error=  +5.95deg
+           pivot wheel commands: L=-27.2, R=+27.2 deg/s
+
+t= 31.0  nose=(-0.188,0.041) o5=(-0.043,0.020) theta=155.3deg o5_err=0.3cm
+
+  pivot t= 15.5s | heading=   6.02deg | target=   0.00deg | error=  -6.02deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+========== NUEVO PEDIDO ==========
+Pedido: #41
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+Tiempo: 33.03 segundos
+
+  pivot t= 17.6s | heading=-200.10deg | target= 155.25deg | error=  -4.65deg
+
+t= 32.0  nose=(-0.189,0.040) o5=(-0.044,0.019) theta=-205.0deg o5_err=0.2cm
+
+  pivot t= 18.1s | heading=-354.58deg | target=   0.00deg | error=  -5.42deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #43
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.27 segundos
+
+  pivot t= 16.9s | heading=-198.22deg | target= 155.22deg | error=  -6.56deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 31.9  nose=(-0.193,0.041) o5=(-0.047,0.020) theta=-204.2deg o5_err=0.1cm
+
+  pivot t= 15.4s | heading=-353.02deg | target=   0.00deg | error=  -6.98deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+========== NUEVO PEDIDO ==========
+Pedido: #44
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.06 segundos
+
+  pivot t= 16.8s | heading=-197.04deg | target= 155.22deg | error=  -7.74deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 31.6  nose=(-0.190,0.041) o5=(-0.045,0.020) theta=-205.2deg o5_err=0.1cm
+
+  pivot t= 16.6s | heading=-351.71deg | target=   0.00deg | error=  -8.29deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #45
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.14 segundos
+
+  pivot t= 19.9s | heading=-198.72deg | target= 155.27deg | error=  -6.01deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 30.7  nose=(-0.188,0.041) o5=(-0.043,0.019) theta=-205.9deg o5_err=0.3cm
+
+  pivot t= 18.0s | heading=-354.91deg | target=   0.00deg | error=  -5.09deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #46
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.16 segundos
+
+  pivot t= 18.1s | heading=-197.32deg | target= 155.27deg | error=  -7.41deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 32.5  nose=(-0.191,0.041) o5=(-0.046,0.020) theta=-204.2deg o5_err=0.1cm
+
+  pivot t= 15.1s | heading=-354.44deg | target=   0.00deg | error=  -5.56deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+========== NUEVO PEDIDO ==========
+Pedido: #47
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.17 segundos
+
+  pivot t= 17.2s | heading=-200.49deg | target= 155.26deg | error=  -4.25deg
+
+t= 32.1  nose=(-0.189,0.041) o5=(-0.043,0.020) theta=-205.3deg o5_err=0.2cm
+
+  pivot t= 15.8s | heading=-353.96deg | target=   0.00deg | error=  -6.04deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #48
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.16 segundos
+
+  pivot t= 18.1s | heading=-198.40deg | target= 155.30deg | error=  -6.30deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 31.4  nose=(-0.190,0.042) o5=(-0.045,0.020) theta=-205.6deg o5_err=0.1cm
+
+  pivot t= 14.7s | heading=-352.40deg | target=   0.00deg | error=  -7.60deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #49
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+
+Tiempo: 32.95 segundos
+pivot t= 16.8s | heading=-198.68deg | target= 155.26deg | error=  -6.06deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 31.7  nose=(-0.190,0.042) o5=(-0.045,0.020) theta=-205.3deg o5_err=0.1cm
+
+  pivot t= 15.3s | heading=-354.00deg | target=   0.00deg | error=  -6.00deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #51
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+
+Tiempo: 33.05 segundos
+
+  pivot t= 18.1s | heading=-199.86deg | target= 155.27deg | error=  -4.87deg
+
+t= 31.7  nose=(-0.194,0.043) o5=(-0.049,0.022) theta=-205.5deg o5_err=0.4cm
+
+  pivot t= 15.0s | heading=-355.64deg | target=   0.00deg | error=  -4.36deg
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #52
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+
+Tiempo: 33.06 segundos
+
+  pivot t= 17.9s | heading=-197.50deg | target= 155.26deg | error=  -7.24deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 31.8  nose=(-0.189,0.041) o5=(-0.043,0.019) theta=-205.6deg o5_err=0.2cm
+
+  pivot t= 16.4s | heading=-356.04deg | target=   0.00deg | error=  -3.96deg
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #53
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.06 segundos
+
+  pivot t= 17.3s | heading=-197.33deg | target= 155.26deg | error=  -7.41deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 32.2  nose=(-0.187,0.040) o5=(-0.042,0.019) theta=-205.5deg o5_err=0.4cm
+
+  pivot t= 15.2s | heading=-353.55deg | target=   0.00deg | error=  -6.45deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #54
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.05 segundos
+
+  pivot t= 18.4s | heading=-197.25deg | target= 155.23deg | error=  -7.52deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 32.2  nose=(-0.188,0.042) o5=(-0.043,0.020) theta=-206.4deg o5_err=0.3cm
+
+  pivot t= 15.4s | heading=-355.01deg | target=   0.00deg | error=  -4.99deg
+
+
+
+=================================
+NUEVO PEDIDO DETECTADO
+Pedido: #55
+Cafe: Latte
+Mesa: Mesa #1
+Coordenadas: (1.2, -0.6)
+=================================
+
+Tiempo: 33.14 segundos
+
+  pivot t= 16.7s | heading=-198.87deg | target= 155.22deg | error=  -5.91deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 32.0  nose=(-0.191,0.042) o5=(-0.046,0.021) theta=-205.6deg o5_err=0.0cm
+
+  pivot t= 15.6s | heading=-351.98deg | target=   0.00deg | error=  -8.02deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+
+
+
+
+
+MESA 2============================
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #56
+Mesa: Mesa #2
+Destino: MESA_2
+Coordenadas: (0.6, 0.6)
+==================================
+
+Tiempo: 26.36 segundos
+
+  pivot t= 17.6s | heading= 217.24deg | target=-139.32deg | error=  +3.44deg
+
+t= 22.5  nose=(-0.175,-0.062) o5=(-0.037,-0.030) theta=220.3deg o5_err=0.2cm
+
+  pivot t= 21.3s | heading= 354.24deg | target=   0.00deg | error=  +5.76deg
+           pivot wheel commands: L=-27.2, R=+27.2 deg/s
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #58
+Mesa: Mesa #2
+Destino: MESA_2
+Coordenadas: (0.6, 0.6)
+==================================
+
+Tiempo: 23.00 segundos
+
+  pivot t= 18.8s | heading= 213.08deg | target=-139.56deg | error=  +7.36deg
+           pivot wheel commands: L=-27.2, R=+27.2 deg/s
+           pivot wheel commands: L=-27.2, R=+27.2 deg/s
+
+t= 21.9  nose=(-0.171,-0.064) o5=(-0.034,-0.030) theta=222.4deg o5_err=0.5cm
+
+  pivot t= 14.1s | heading= 355.47deg | target=   0.00deg | error=  +4.53deg
+
+
+=================================
+NUEVO PEDIDO DETECTADO
+Pedido: #59
+Cafe: Latte
+Mesa: Mesa #2
+Coordenadas: (0.6, 0.6)
+=================================
+
+Starting from physical HOME (nose on origin), facing +X
+Initial pose: {'ok': True, 'raw_line': 'OK pose.get x_mm=0.00 y_mm=0.00 theta_deg=0.00', 'command': 'pose.get', 'x_mm': 0.0, 'y_mm': 0.0, 'theta_deg': 0.0}
+
+========== NUEVO PEDIDO ==========
+Pedido: #59
+Mesa: Mesa #2
+Destino: MESA_2
+Coordenadas: (0.6, 0.6)
+==================================
+
+Tiempo: 25.61 segundos
+
+  pivot t= 15.8s | heading= 213.64deg | target=-139.56deg | error=  +6.80deg
+           pivot wheel commands: L=-27.2, R=+27.2 deg/s
+
+t= 20.4  nose=(-0.172,-0.060) o5=(-0.033,-0.028) theta=219.3deg o5_err=0.6cm
+
+  pivot t= 19.5s | heading= 353.94deg | target=   0.00deg | error=  +6.06deg
+           pivot wheel commands: L=-27.2, R=+27.2 deg/s
+
+
+====MESA 3======
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #61
+Mesa: Mesa #3
+Destino: MESA_3
+Coordenadas: (1.8, 0.0)
+==================================
+
+Tiempo: 43.91 segundos
+
+  pivot t= 17.2s | heading=-174.98deg | target= 179.98deg | error=  -5.04deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 42.7  nose=(-0.201,-0.000) o5=(-0.051,-0.000) theta=-180.2deg o5_err=0.1cm
+
+  pivot t= 16.9s | heading=-356.10deg | target=   0.00deg | error=  -3.90deg
+
+========== NUEVO PEDIDO ==========
+Pedido: #62
+Mesa: Mesa #3
+Destino: MESA_3
+Coordenadas: (1.8, 0.0)
+==================================
+Tiempo: 43.91 segundos
+
+  pivot t= 18.5s | heading=-173.31deg | target= 179.99deg | error=  -6.70deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 42.7  nose=(-0.202,-0.000) o5=(-0.052,-0.000) theta=-180.1deg o5_err=0.2cm
+
+  pivot t= 17.7s | heading=-353.44deg | target=   0.00deg | error=  -6.56deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+========= NUEVO PEDIDO ==========
+Pedido: #63
+Mesa: Mesa #3
+Destino: MESA_3
+Coordenadas: (1.8, 0.0)
+==================================
+
+Tiempo: 43.91 segundos
+
+  pivot t= 17.5s | heading=-174.55deg | target= 179.98deg | error=  -5.47deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 42.6  nose=(-0.199,0.001) o5=(-0.049,0.000) theta=-181.1deg o5_err=0.1cm
+
+  pivot t= 16.9s | heading=-356.54deg | target=   0.00deg | error=  -3.46deg
+
+========== NUEVO PEDIDO ==========
+Pedido: #64
+Mesa: Mesa #3
+Destino: MESA_3
+Coordenadas: (1.8, 0.0)
+==================================
+
+Tiempo: 43.94 segundos
+
+  pivot t= 21.9s | heading= 175.48deg | target=-180.00deg | error=  +4.52deg
+
+t= 40.8  nose=(-0.201,0.000) o5=(-0.051,-0.000) theta=179.7deg o5_err=0.1cm
+
+  pivot t= 17.2s | heading=   5.36deg | target=   0.00deg | error=  -5.36deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #65
+Mesa: Mesa #3
+Destino: MESA_3
+Coordenadas: (1.8, 0.0)
+==================================
+
+Mesa: Mesa #3
+Tiempo: 43.91 segundos
+
+  pivot t= 16.2s | heading=-172.14deg | target= 179.98deg | error=  -7.88deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 42.9  nose=(-0.200,-0.000) o5=(-0.050,-0.000) theta=-180.3deg o5_err=0.0cm
+
+  pivot t= 16.5s | heading=-352.58deg | target=   0.00deg | error=  -7.42deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #68
+Mesa: Mesa #3
+Destino: MESA_3
+Coordenadas: (1.8, 0.0)
+==================================
+
+Tiempo: 43.88 segundos
+
+  pivot t= 18.0s | heading= 175.84deg | target=-179.97deg | error=  +4.19deg
+
+t= 42.5  nose=(-0.198,0.001) o5=(-0.048,0.001) theta=179.8deg o5_err=0.2cm
+
+  pivot t= 16.9s | heading=   7.32deg | target=   0.00deg | error=  -7.32deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+===MESA 1===============
+
+========== NUEVO PEDIDO ==========
+Pedido: #69
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.08 segundos
+
+  pivot t= 17.5s | heading=-197.75deg | target= 155.29deg | error=  -6.96deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 32.1  nose=(-0.187,0.041) o5=(-0.042,0.019) theta=-205.8deg o5_err=0.4cm
+
+  pivot t= 15.8s | heading=-354.11deg | target=   0.00deg | error=  -5.89deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #70
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.02 segundos
+
+  pivot t= 17.4s | heading=-200.23deg | target= 155.22deg | error=  -4.55deg
+
+t= 32.2  nose=(-0.188,0.042) o5=(-0.043,0.020) theta=-205.9deg o5_err=0.3cm
+
+  pivot t= 17.6s | heading=-352.79deg | target=   0.00deg | error=  -7.21deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+  Pivot completed within 5 deg tolerance.
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #71
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.14 segundos
+
+  pivot t= 17.4s | heading=-200.20deg | target= 155.21deg | error=  -4.59deg
+  Pivot completed within 5 deg tolerance.
+
+t= 32.1  nose=(-0.189,0.042) o5=(-0.044,0.020) theta=-205.6deg o5_err=0.2cm
+
+  pivot t= 15.9s | heading=-355.55deg | target=   0.00deg | error=  -4.45deg
+  Pivot completed within 5 deg tolerance.
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #72
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+Tiempo: 33.02 segundos
+  pivot t= 17.2s | heading=-197.14deg | target= 155.26deg | error=  -7.60deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+t= 31.9  nose=(-0.189,0.041) o5=(-0.044,0.020) theta=-205.2deg o5_err=0.2cm
+
+  pivot t= 15.8s | heading=-356.15deg | target=   0.00deg | error=  -3.85deg
+
+
+========== NUEVO PEDIDO ==========
+Pedido: #73
+Mesa: Mesa #1
+Destino: MESA_1
+Coordenadas: (1.2, -0.6)
+==================================
+
+Tiempo: 33.05 segundos
+  pivot t= 16.9s | heading=-200.24deg | target= 155.22deg | error=  -4.54deg
+t= 31.8  nose=(-0.193,0.041) o5=(-0.047,0.021) theta=-204.4deg o5_err=0.2cm
+
+  pivot t= 19.9s | heading=-351.59deg | target=   0.00deg | error=  -8.41deg
+           pivot wheel commands: L=+27.2, R=-27.2 deg/s
+
+Round trip complete. Verify nose against original HOME floor mark.
+
+ENTREGA FINALIZADA
+RoboCoffee disponible para otro pedido.
+Buscando siguiente pedido...
+
+
+
+
